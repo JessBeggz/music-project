@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-image: url("Images/background.jpg");
+    
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.glass {
+    color: rgba(255, 255, 255, 0.7);
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+}
